@@ -6,6 +6,7 @@ A smali scanner in python, can be used for finding all the ICC (Inter-Component-
 The smali scanner is available for scanning one application at a time, or serveral applications at one shot, for users want to scan one application at a time, just type in:
 
 * python RYLauncher.py -s [Your smali file folder location]
+
 And for those users who want to scan several applications at a time, please type in:
 
 * python RYLauncher.py -c [Your file folder`s root folder location]
