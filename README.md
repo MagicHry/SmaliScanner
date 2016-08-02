@@ -3,3 +3,4 @@ A smali scanner in python, can be used for finding all the ICC (Inter-Component-
 
 --------
 ## Usage
+The smali scanner is available for scanning one application at a time, or serveral applications at one shot, for users want to scan one application at a time, just type in:
